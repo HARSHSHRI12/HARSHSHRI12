@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I+am+Harsh+Shrivastava;AI+Engineer+and+Full+Stack+Developer;Building+AI+Powered+and+Scalable+Systems;LLMs+%7C+NLP+%7C+FastAPI+%7C+MERN+Stack" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+I+am+Harsh+Shrivastava;AI+Engineer+and+Full+Stack+Developer;Building+AI+Powered+and+Scalable+Systems;LLMs+%7C+NLP+%7C+FastAPI+%7C+MERN+Stack" />
+
 </div>
-
-
----
 
 <div align="center">
 
@@ -33,8 +32,8 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
 ### 🧠 AI / NLP  
-![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-F97316?style=for-the-badge)
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -50,20 +49,20 @@
 
 ✨ **AI Resume Parsing System** – NLP + LLM + FastAPI  
 ✨ **AI-powered Backend APIs** – scalable & optimized  
-✨ **Full Stack Web Apps** – MERN Stack  
+✨ **Full Stack Web Applications** – MERN Stack  
 ✨ **Microservices Architecture** – modular & production-ready  
 
 ➡️ *Scroll down to explore repositories 👇*
 
 ---
 
-## 📊 GitHub Stats (Recruiter Favorite ⭐)
+## 📊 GitHub Stats  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?HARSHSHRI12=HARSHSHRI12&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HARSHSHRI12&show_icons=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHSHRI12&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHSHRI12&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -77,7 +76,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="harsh-shrivastava-portfolio.netlify.app">
+<a href="https://harsh-shrivastava-portfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
