@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Harsh+Shrivastava;AI+Engineer+%26+Full+Stack+Developer;Building+AI-Powered+%26+Scalable+Systems;LLMs+%7C+NLP+%7C+FastAPI+%7C+MERN+Stack" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I+am+Harsh+Shrivastava;AI+Engineer+and+Full+Stack+Developer;Building+AI+Powered+and+Scalable+Systems;LLMs+%7C+NLP+%7C+FastAPI+%7C+MERN+Stack" />
 </div>
+
 
 ---
 
