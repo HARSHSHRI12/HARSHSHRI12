@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+I+am+Harsh+Shrivastava;AI+Engineer+and+Full+Stack+Developer;Building+AI+Powered+and+Scalable+Systems;LLMs+%7C+NLP+%7C+FastAPI+%7C+MERN+Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+I+am+Harsh+Shrivastava;AI+Engineer+and+Full+Stack+Developer;Building+AI+Powered+and+Scalable+Systems;LLMs+%7C+NLP+%7C+FastAPI+%7C+MERN+Stack" />
 
 </div>
 
