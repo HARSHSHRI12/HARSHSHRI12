@@ -1,33 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Harsh+Shrivastava+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+AI+%26+Voice+AI;Building+Production-Grade+LLM+Systems;LangGraph+%7C+RAG+%7C+FastAPI+%7C+Gemini+Realtime" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=Harsh%20Shrivastava&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Voice%20AI%20%E2%80%A2%20LLM%20Systems&descSize=19&descAlignY=58" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+building+multi-agent+systems+with+LangGraph;%3E+shipping+real-time+Voice+AI+agents;%3E+making+LLMs+reliable%2C+observable+%26+cost-efficient;%3E+guardrails+%7C+routers+%7C+circuit+breakers+%7C+RAG" alt="typing" />
 
 <br/>
 
-<a href="https://harsh-shrivastava-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/harsh-shrivastava-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hshrivastava559@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=HARSHSHRI12&label=Profile+Views&color=a855f7&style=for-the-badge"/>
-
-### 💡 I build AI systems that survive production — not just demos.
+<a href="https://harsh-shrivastava-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harsh-shrivastava-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hshrivastava559@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=HARSHSHRI12&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `>_ whoami`
 
-I'm an **AI Engineer** focused on **Agentic AI, Voice AI agents, and RAG-based GenAI applications**. I care about the unglamorous part of AI — making LLM systems **reliable, observable, and cost-efficient** once real users touch them.
+```python
+class HarshShrivastava:
+    role        = "AI Engineer"
+    location    = "Noida, India 🇮🇳"
+    focus       = ["Agentic AI", "Voice AI Agents", "RAG", "LLM Ops"]
+    building    = ["Hanrry AI  →  autonomous voice-driven hiring pipeline",
+                   "NogenAI    →  AI-first education platform (50+ users)"]
+    reliability = ["guardrails", "LLM router", "circuit breaker", "observability"]
+    stack       = ["Python", "FastAPI", "LangGraph", "Pinecone", "Docker", "AWS"]
+    exploring   = ["LLM evals", "agent reliability", "voice-agent latency"]
+    philosophy  = "Demos impress. Production survives."
 
-- 🏢 Currently building an AI-powered recruitment platform at **Aerohyre**
-- 🎙️ Architected **Hanrry AI** — an autonomous hiring pipeline with a real-time Voice AI interviewer
-- 🎓 Created **NogenAI** — a live AI-first education platform with **50+ active users**
-- 🛡️ Hands-on with **guardrails, LLM routing, circuit breakers, and LLM observability**
-- 🌱 Currently exploring: **LLM evaluation, agent reliability, and voice-agent latency**
+    def open_to(self):
+        return "AI Engineer / GenAI / Agentic AI roles 🚀"
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
+
+<div align="center">
 
 **🧠 AI / LLM Engineering**
 
@@ -47,74 +57,90 @@ I'm an **AI Engineer** focused on **Agentic AI, Voice AI agents, and RAG-based G
 ![LLM Router](https://img.shields.io/badge/LLM_Router-F97316?style=for-the-badge)
 ![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-DC2626?style=for-the-badge)
 
-**⚙️ Backend & Infra**
+**🛠️ Engineering Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,react,ts,tailwind,docker,aws,nginx,postgres,mongodb,redis,git,githubactions&theme=dark" />
 
-**🗄️ Databases & 🎨 Frontend**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🎙️ Hanrry AI — Agentic, Voice-AI-Driven Recruitment Pipeline
-An end-to-end hiring workflow: **job creation → LLM-based candidate filtering → automated email → interview slot booking → live AI voice interview → transcript-based evaluation report delivered to the recruiter.**
+### 🎙️ Hanrry AI — Autonomous, Voice-AI-Driven Recruitment Pipeline
 
-- Real-time voice interviewer built on **Gemini Realtime API + VideoSDK**
-- **LangGraph** multi-agent workflow for post-call transcript analysis and PDF scorecards
-- Async **FastAPI** backend with **APScheduler** for scheduling and notifications
+An end-to-end agentic hiring workflow — from job creation to a recruiter-ready evaluation report.
+
+```mermaid
+flowchart LR
+    A[Create Job] --> B[Upload Resumes]
+    B --> C{LLM Filter<br/>job + min score}
+    C -->|Shortlisted| D[Auto Email]
+    D --> E[Candidate Picks<br/>Interview Slot]
+    E --> F[Live AI Voice Interview<br/>Gemini Realtime + VideoSDK]
+    F --> G[LangGraph Agents<br/>Transcript Analysis]
+    G --> H[PDF Scorecard<br/>to Recruiter]
+    style C fill:#6366F1,color:#fff
+    style F fill:#A855F7,color:#fff
+    style G fill:#22D3EE,color:#000
+```
+
+- 🎧 Real-time, low-latency voice interviewer with dynamic, JD-specific questions
+- 🧩 **LangGraph** multi-agent workflow for transcript analysis and candidate scorecards
+- ⏱️ Async **FastAPI** backend + **APScheduler** for scheduling, notifications and orchestration
 
 `Python` `FastAPI` `LangGraph` `Gemini Realtime API` `VideoSDK` `APScheduler` `SQLAlchemy`
 
-### 🎓 NogenAI — AI-First Education Platform
-🌐 [nogenai.in](https://nogenai.in) · **50+ active users** · deployed end-to-end on AWS
+<br/>
 
-- RAG pipelines + Pinecone for personalised tutoring and content retrieval
-- Document ingestion for PDF/DOCX; deployed on **S3 + CloudFront** (frontend) and **EC2 + Nginx + PM2** (backend)
+### 🎓 NogenAI — AI-First Education Platform
+
+🌐 **[nogenai.in](https://nogenai.in)** &nbsp;·&nbsp; 👥 **50+ active users** &nbsp;·&nbsp; ☁️ deployed end-to-end on AWS
+
+- 📚 RAG pipelines + Pinecone for personalised tutoring and intelligent content retrieval
+- 📄 Document ingestion for PDF/DOCX (PyMuPDF4LLM, PyPDF2, Textract)
+- 🚢 **S3 + CloudFront** (frontend) · **EC2 + Nginx + PM2** (backend)
 
 `RAG` `Pinecone` `FastAPI` `Node.js` `React` `AWS`
 
-### 🧰 Open-Source Projects
+<br/>
+
+### 🧰 More Projects
 
 | Project | What it does | Stack |
-|---|---|---|
-| [**News AI Agent**](https://github.com/HARSHSHRI12/News_Ai_Agent-Crewai-) | Autonomous Researcher + Writer agents that turn live web research into structured articles | CrewAI, Gemini 2.5 Flash, Serper API |
-| [**LangChain AI Toolkit**](https://github.com/HARSHSHRI12/Langchain-Pinecone-DynamicPrompting-ChatHistory-LangSmith-monitoring) | RAG chatbot with chat history, dynamic prompts, vector search & LangSmith tracing | LangChain, Pinecone, LangSmith |
-| [**Routine-AI**](https://github.com/HARSHSHRI12/Routine-AI) | NLP-powered timetable manager that parses free-text into structured schedules with email reminders | React, Node.js, FastAPI, MongoDB |
-| **Career Advisor & Prediction System** | RAG + LLM-driven personalised career path recommendations | FastAPI, React, MongoDB, RAG |
+|:--|:--|:--|
+| 📰 [**News AI Agent**](https://github.com/HARSHSHRI12/News_Ai_Agent-Crewai-) | Researcher + Writer agents turn live web research into structured articles | `CrewAI` `Gemini 2.5 Flash` `Serper` |
+| 🔗 [**LangChain AI Toolkit**](https://github.com/HARSHSHRI12/Langchain-Pinecone-DynamicPrompting-ChatHistory-LangSmith-monitoring) | RAG chatbot with chat history, dynamic prompts, vector search & tracing | `LangChain` `Pinecone` `LangSmith` |
+| 🗓️ [**Routine-AI**](https://github.com/HARSHSHRI12/Routine-AI) | NLP timetable manager: free-text → structured schedules + email reminders | `React` `Node.js` `FastAPI` `MongoDB` |
+| 🧭 **Career Advisor System** | RAG + LLM personalised career-path recommendations | `FastAPI` `React` `RAG` |
 
 ---
 
-## 🧭 How I Build AI Systems
+## 🧠 How I Engineer LLM Systems
 
-```text
-   User / Client
-        │
-        ▼
-  FastAPI (async) ──► Guardrails ──► LLM Router ──► Model A ─┐
-        │                                │                    │  circuit breaker
-        │                                └──► Fallback B ◄────┘  + key rotation
-        ▼
-   Cache layer  ◄──►  Vector DB (Pinecone)  ◄──►  RAG pipeline
-        │
-        ▼
-  Observability: LangSmith + Langfuse (traces · tokens · cost · latency)
+```mermaid
+flowchart TB
+    U[Client Request] --> API[FastAPI · async]
+    API --> G[Guardrails<br/>input / output validation]
+    G --> R[LLM Router]
+    R -->|primary| M1[Model A]
+    R -->|fallback| M2[Model B / C]
+    M1 -.->|failure threshold| CB[Circuit Breaker]
+    CB -.-> R
+    API <--> C[(Cache · MD5)]
+    API <--> V[(Pinecone · RAG)]
+    API --> O[Observability<br/>LangSmith · Langfuse]
+    style G fill:#16A34A,color:#fff
+    style R fill:#F97316,color:#fff
+    style CB fill:#DC2626,color:#fff
+    style O fill:#6366F1,color:#fff
 ```
 
+> **Principle:** every LLM call is treated as an unreliable network dependency — validated, routed, cached, traced, and given a fallback.
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -123,13 +149,15 @@ An end-to-end hiring workflow: **job creation → LLM-based candidate filtering 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHSHRI12&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHSHRI12&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something
 
-I'm open to **AI Engineer / GenAI / Agentic AI** roles where reliability and shipping matter as much as the demo.
+Open to **AI Engineer · GenAI · Agentic AI** roles — teams where reliability and shipping matter as much as the demo.
 
 <div align="center">
 
@@ -139,6 +167,8 @@ I'm open to **AI Engineer / GenAI / Agentic AI** roles where reliability and shi
 
 <br/><br/>
 
-⭐ *Always Learning · Always Building · Always Shipping*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Always+Learning+%C2%B7+Always+Building+%C2%B7+Always+Shipping" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=110&section=footer" width="100%"/>
 
 </div>
